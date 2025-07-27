@@ -40,5 +40,8 @@ Looking to partner on open-source projects involving:
 - 🎥 Demo videos showcasing low-level debugging techniques
 - 🛠️ Open-source hardware validation toolkits
 - 📊 Benchmarking different compilation toolchains
+🖥Focus on board design, using JLC EDA
 
 🚧 _Currently building: Automated HAL generator for STM32 MCUs_ 🚧
+
+
